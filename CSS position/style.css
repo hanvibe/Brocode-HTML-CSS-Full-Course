@@ -1,0 +1,25 @@
+#box1{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    position: fixed;
+    top: 100px;
+    left: 100px;
+}
+
+#box2{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: static;
+    top: 50px;
+    left: 50px;
+}
+/* relative -> choose top and move bottom
+            -> choose left and move right
+            -> choose negative top and move top
+            -> choose left and move left 
+    fixed   -> floating around
+    absolute-> stay in the ancestor and float with ancestor. 
+    sticky  -> same with fixed but there are some space at the top.
+    static  -> give the position into default again. */
