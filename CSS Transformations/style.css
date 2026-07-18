@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+}
+#box1{
+    width: 250px;
+    height: 250px;
+    border: 5px solid;
+    font-size: 13em;
+    text-align: center;
+    background-color: green;
+
+    /*transform: translateX or Y(100px or %); or transform: translate( , )
+      transform: rotateX or Y or Z(45degree);
+      transform: scaleX or Y (1.5); or transform: scale ( , ) 
+      transform: skewX or Y (45degree);
+      transform: translateX (100%) rotateZ (90dog) scale(0.5);*/
+}
+#box2{
+    width: 250px;
+    height: 250px;
+    border: 5px solid;
+    font-size: 13em;
+    text-align: center;
+    background-color: green;
+}
+#box3{
+    width: 250px;
+    height: 250px;
+    border: 5px solid;
+    font-size: 13em;
+    text-align: center;
+    background-color: green;
+}
